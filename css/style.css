@@ -89,7 +89,7 @@ ul {
 /* section-1 */
 .logo-title-one {
   background-color: #2e2f42;
-  padding-top: 188px ;
+  padding-top: 188px;
   padding-right: 472px;
   padding-bottom: 292px;
   padding-left: 472px;
@@ -127,7 +127,6 @@ ul {
 .services-section {
   padding: 120px 0;
 }
-/* visual */
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -146,7 +145,7 @@ ul {
   gap: 24px;
 }
 .list-item {
-    width: calc((100% - 72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 
 .section-item-title {
@@ -163,12 +162,21 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.icon-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd; 
+  border-radius: 4px; 
+  margin-bottom: 8px;
+}
 
 /* section-3 */
 .logo-title {
   background: var(--CLOUD, #f4f4fd);
   padding: 120px 0;
-}  
+}
 .section-title {
   margin-bottom: 72px;
   font-size: 36px;
@@ -186,6 +194,7 @@ ul {
   background-color: #ffffff;
   margin-right: 24px;
   border-radius: 0px 0px 4px 4px;
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .contact-info {
   padding: 32px 0;

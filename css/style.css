@@ -44,11 +44,11 @@ ul {
   margin-right: 76px;
 }
 .links {
-  position: relative;
   display: flex;
   gap: 40px;
 }
 .menu-item {
+  position: relative;
   display: block;
   margin-right: 40px;
 }

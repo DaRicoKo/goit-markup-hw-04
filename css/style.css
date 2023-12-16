@@ -28,7 +28,6 @@ ul {
   margin: 0 auto;
 }
 .header-nav {
-  position: relative;
   display: flex;
   align-items: center;
   color: #4d5ae5;
@@ -45,6 +44,7 @@ ul {
   margin-right: 76px;
 }
 .links {
+  position: relative;
   display: flex;
   gap: 40px;
 }

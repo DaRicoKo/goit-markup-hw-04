@@ -48,6 +48,7 @@ ul {
   gap: 40px;
 }
 .menu-item {
+  color: #404bbf; 
   display: block;
   margin-right: 40px;
 }

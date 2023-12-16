@@ -301,5 +301,20 @@ ul {
 }
 .footer-logo-description {
   margin-right: 120px;
-  
+}
+.social-container {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:  #FFFFFF;
+  margin-bottom: 16px;
+}
+.social-item {
+  display: flex;
+  gap: 16px; 
+}
+.social-container-footer {
+  width: 40px; 
+  height: 40px;
 }

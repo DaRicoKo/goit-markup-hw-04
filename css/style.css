@@ -52,7 +52,6 @@ ul {
   margin-right: 40px;
 }
 .menu-item {
-  color: #404bbf;
   text-decoration: none;
   margin-right: 0;
 }
@@ -280,6 +279,11 @@ ul {
   padding: 100px 0;
 }
 .container-footer {
+  display: flex;
+  align-items: baseline;
+  margin-right: 120px;
+  
+
   width: 1158px;
   margin: 0 auto;
 }
